@@ -199,7 +199,7 @@ function openPopup(assignment) {
       </div>
     </header>
     <main>
-      <p class="info">Correct choices are highlighted in green.</p>
+      <p class="info">Correct choices are highlighted in green, you are welcome jessica</p>
       <div id="content" class="questions">
         <p id="loading_text"></p>
       </div>
