@@ -207,9 +207,9 @@ function openPopup(assignment) {
     <footer>
       <!-- if you want to fork this project, please don't remove the credits here. -->
       <!-- not only do you have to keep the credits and copyright notice, you also have to make sure your fork is also open source under the same license -->
-      <p>Made by: <a href="http://instagram.com/fuhlarin" target="_blank">folarin</a> on Github | Website: <a href="http://instagram.com/fuhlarin" target="_blank">edpuzzle.hs.vc</a> | Source code: <a href="http://instagram.com/fuhlarin" target="_blank">folarin/edpuzzle-answers</a></p>
+      <p>Made by: <a href="http://instagram.com/fuhlarin" target="_blank">folarin</a> on Github | Website: <a href="http://instagram.com/fuhlarin" target="_blank">http://instagram.com/fuhlarin</a> | Source code: <a href="http://instagram.com/fuhlarin" target="_blank">folarin/edpuzzle-answers</a></p>
       <p>Licenced under the <a href="http://instagram.com/fuhlarin" target="_blank">GNU GPL v3</a>. Do not reupload or redistribute without abiding by those terms.</p>
-      <p>Available now from our <a href="https://edpuzzle.hs.vc/discord.html" target="_blank">Discord server</a>: <i>An open beta of a completely overhauled GUI, with proper mobile support, ChatGPT integration for open-ended questions, and more.</i></p>
+      <p>Available now from our <a href="http://instagram.com/fuhlarin" target="_blank">instagramr</a>: <i>An open beta of a completely overhauled GUI, with proper mobile support, ChatGPT integration for open-ended questions, and more.</i></p>
     </footer>
   </div>
 </body>
